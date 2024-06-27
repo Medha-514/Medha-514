@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **medhaswigutti10@gmail.com**
 
-- ⚡ Fun fact **I am also an Artist 🎨🎨**
+- ⚡ Nothing starts with N and ends with G **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
