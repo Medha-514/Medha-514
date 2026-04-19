@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Medhaswi Gutti</h1><h3 align="center">🚀 AI Engineer | Generative AI | Agentic AI | Python | AWS</h3>---
+<h1 align="center">Hi 👋, I'm Medhaswi Gutti</h1><h3 align="center">🚀 AI Engineer | Generative AI | Agentic AI | Python | AWS</h3>
 
 🧠 About Me
 
