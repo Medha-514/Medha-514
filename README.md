@@ -28,6 +28,7 @@
 🧰 Tools & Frameworks
 
 - LangChain
+- crew AI
 - OpenAI / Anthropic APIs
 - FastAPI / Flask
 - Streamlit
@@ -35,6 +36,7 @@
 ☁️ Cloud
 
 - AWS
+- Azure
 
 ---
 
